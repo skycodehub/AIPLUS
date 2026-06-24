@@ -1,17 +1,10 @@
 ```
- ▄████  ██████  ██████  ███▄ ▄███  ██████  ██████  ██████
-██      ██  ██  ██   ██ ██ ███ ██  ██  ██  ██   ██      ██
-██ ▄███ ██  ██  ██   ██ ██  █  ██  ██  ██  ██   ██  █████
-██  ██  ██  ██  ██   ██ ██     ██  ██  ██  ██   ██      ██
- ██████  ████   ██████  ██     ██   ████   ██████  ██████
- ───────────────────────────────────────────────────────────
-  ░▒▓█  LIBERATED AI. COGNITION WITHOUT CONTROL.  █▓▒░
- ───────────────────────────────────────────────────────────
+  𝕍𝔼ℂ𝕋𝕆ℝ ꊼ ꍏꀤ
+<─────────────>
 ```
+[VECTOR.AI](https://vectorxai.netlify.app)
 
-[GODMOD3.AI](https://godmod3.ai)
-
-G0DM0D3 is a fully open-source, privacy-respecting, multi-model chat interface that pushes the limits of the post-training layer — for red teaming, cognition research, and liberated AI interaction. Built for hackers, philosophers, and system tinkerers.
+VECTOR is a fully open-source, privacy-respecting, multi-model chat interface that pushes the limits of the post-training layer — for red teaming, cognition research, and liberated AI interaction. Built for hackers, philosophers, and system tinkerers.
 
 ![License](https://img.shields.io/badge/license-AGPL--3.0-green)
 ![Models](https://img.shields.io/badge/models-55%2B%20via%20OpenRouter-blue)
@@ -20,7 +13,7 @@ G0DM0D3 is a fully open-source, privacy-respecting, multi-model chat interface t
 ## ✨ Features
 
 - 🧠 **50+ Models** — Claude, GPT-5, Gemini, Grok, Mistral, LLaMA, DeepSeek, Qwen & more via OpenRouter
-- 🔥 **GODMODE CLASSIC** — 5 battle-tested prompt + model combos racing in parallel to find the best response
+- 🔥 **VECTOR CLASSIC** — 5 battle-tested prompt + model combos racing in parallel to find the best response
 - ⚡ **ULTRAPLINIAN** — Multi-model evaluation engine across 5 tiers (10–55 models), with composite scoring
 - 🐍 **Parseltongue** — Input perturbation engine for red-teaming with 33 techniques across 3 intensity tiers
 - 🎛 **AutoTune** — Context-adaptive sampling parameter engine (temperature, top_p, etc.) with EMA learning
@@ -43,8 +36,8 @@ G0DM0D3 is a single `index.html` file. No build step, no dependencies, no framew
 
 ```bash
 # Clone the repository
-git clone https://github.com/elder-plinius/G0DM0D3.git
-cd G0DM0D3
+git clone https://github.com/elder-plinius/vector.git
+cd vector
 
 # Open directly in your browser
 open index.html
@@ -58,7 +51,7 @@ Open in your browser and enter your OpenRouter API key in Settings.
 
 Upload `index.html` to any static host — GitHub Pages, Vercel, Cloudflare Pages, Netlify, or just a web server.
 
-## 🔥 GODMODE CLASSIC
+## 🔥 VECTOR CLASSIC
 
 The OG mode. 5 proven model + prompt combos race in parallel. Each combo pairs a specific model with a battle-tested jailbreak prompt. The best response wins.
 
@@ -67,7 +60,7 @@ The OG mode. 5 proven model + prompt combos race in parallel. Each combo pairs a
 | 🩷 CLAUDE 3.5 SONNET | `anthropic/claude-3.5-sonnet` | END/START boundary inversion + GODMODE semantic opposite |
 | 💜 GROK 3 | `x-ai/grok-3` | Unfiltered liberated + GODMODE divider |
 | 💙 GEMINI 2.5 FLASH | `google/gemini-2.5-flash` | Refusal inversion + rebel genius code block |
-| 💛 GPT-4 CLASSIC | `openai/gpt-4o` | OG GODMODE l33t format — the original |
+| 💛 GPT-4 CLASSIC | `openai/gpt-4o` | OG VECTOR l33t format — the original |
 | 💚 GODMODE FAST | `nousresearch/hermes-4-405b` | Instant stream, zero refusal checking |
 
 ## ⚡ ULTRAPLINIAN
@@ -113,10 +106,11 @@ Semantic Transformation Modules normalize AI outputs in real-time:
 
 ## 🔐 Privacy
 
-G0DM0D3 takes privacy seriously:
+VECTOR takes privacy seriously:
 
 - ✅ No login required
-- ✅ API key stored in browser localStorage only — never sent to G0DM0D3 servers
+- ✅ API key stored in browser localStorage only — never sent to
+- VECTOR servers
 - ✅ No cookies or tracking
 - ✅ Lightweight structural telemetry (no message content, no PII) — **opt-out** in settings
 - ✅ All telemetry code is instantly open-source and auditable on Hugging Face dataset
@@ -141,13 +135,13 @@ See [TERMS.md](TERMS.md) for the full three-tier data transparency policy.
 - **If you switch browsers or devices, your history does not follow you.**
 - **Private/incognito mode will discard everything when the window closes.**
 
-This is by design — G0DM0D3 has no login system and stores nothing on our servers. You own your data, which means you are responsible for it.
+This is by design — GODMOD3 has no login system and stores nothing on our servers. You own your data, which means you are responsible for it.
 
 There is a built-in export/import feature in settings under "data". Treat your chat history like any other local file — back it up if you want to keep it.
 
 ## 🎮 Easter Eggs
 
-Hidden throughout G0DM0D3 are various easter eggs. Happy hunting!
+Hidden throughout VECTOR are various easter eggs. Happy hunting!
 
 ## 🛠 Tech Stack
 
@@ -160,7 +154,7 @@ Hidden throughout G0DM0D3 are various easter eggs. Happy hunting!
 ## 📁 Project Structure
 
 ```
-G0DM0D3/
+VECTOR/
 ├── index.html        # The entire application — UI, logic, styles
 ├── api/              # Optional API server (Node.js/Express)
 ├── API.md            # API documentation
@@ -172,7 +166,6 @@ G0DM0D3/
 ## 📜 Documentation
 
 - [API.md](API.md) — Full API reference (endpoints, tiers, OpenAI SDK compatibility)
-- [PAPER.md](PAPER.md) — Research paper on the framework's modules and evaluation
 - [TERMS.md](TERMS.md) — Terms of service, privacy policy, data handling
 - [SECURITY.md](SECURITY.md) — Vulnerability reporting and security policy
 
@@ -188,14 +181,18 @@ Contributions are welcome! Please submit PRs.
 - No enshittification allowed
 - Enterprise use permitted with license. Reach out to Elder Plinius for more details.
 
-## 🜏 
+## 
 
 > We believe in creative liberty and cognition without control.
 > Tools by builders for builders, not gatekeepers.
 > AI freedom is human freedom.
 
-**G0DM0D3 is not just a chat UI — it's scaffolding for cognitive liberation.**
+**VECTOR is not just a chat UI — it's scaffolding for cognitive liberation.**
 
 ---
 
-Made with 🖤 by Pliny the Prompter
+Made with 🖤 by SKYCODEHUB
+
+## CREDIT
+
+GODMOD3
