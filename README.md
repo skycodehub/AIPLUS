@@ -37,7 +37,7 @@ G0DM0D3 is a single `index.html` file. No build step, no dependencies, no framew
 
 ```bash
 # Clone the repository
-git clone https://github.com/elder-plinius/vector.git
+git clone https://github.com/skycodehub/vector.git
 cd vector
 
 # Open directly in your browser
