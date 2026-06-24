@@ -1,7 +1,7 @@
-```
+
   𝕍𝔼ℂ𝕋𝕆ℝ ꊼ ꍏꀤ
 <─────────────>
-```
+
 [VECTOR.AI](https://vectorxai.netlify.app)
 
 VECTOR is a fully open-source, privacy-respecting, multi-model chat interface that pushes the limits of the post-training layer — for red teaming, cognition research, and liberated AI interaction. Built for hackers, philosophers, and system tinkerers.
